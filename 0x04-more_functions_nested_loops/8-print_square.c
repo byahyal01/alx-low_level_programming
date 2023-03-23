@@ -26,5 +26,3 @@ void print_square(int size)
 		}
 	}
 }
-Footer
-© 2023 GitHub, Inc.
